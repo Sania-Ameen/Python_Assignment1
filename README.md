@@ -1,4 +1,4 @@
-Discription of Files 
+Description of Files 
 # Question 1: Controlled Multiplication Loop 
 This program multiplies consecutive numbers starting from 1 and stops when the product initially becomes greater than the given threshold value. 
 
